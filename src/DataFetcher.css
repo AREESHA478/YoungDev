@@ -1,0 +1,13 @@
+/* src/components/DataFetcher.css */
+h1 {
+    margin-bottom: 20px;
+  }
+  
+  .list-group-item {
+    border: 1px solid #dee2e6;
+    transition: background-color 0.3s;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
